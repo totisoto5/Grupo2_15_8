@@ -1,0 +1,49 @@
+body{
+    margin: 0;
+}
+
+.header{
+    background-color: #E6E6E6;
+}
+
+.header img{
+    margin-left: 45%;
+}
+
+h1{
+    margin-bottom: 100px;
+    margin-top: 0;
+    text-align: center;
+    background-color: #C4C4C4; 
+    color: #005677;
+    height: 50px;
+    padding-top: 10px;
+    letter-spacing: 9px;
+}
+
+h2{
+    margin-top: 50px;
+    background-color: #C4C4C4;
+    color: #005677;
+    letter-spacing: 9px;
+}
+
+span{
+    margin-left: 80px;
+}
+
+footer{
+    margin-top: 200px;
+    background-color:  #005677;;
+    color: white;
+    padding: 10px;
+}
+
+footer .Batman{
+    margin-left: 45%;
+}
+
+footer img{
+    margin-left: 30px;
+}
+
